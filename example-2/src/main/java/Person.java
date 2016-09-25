@@ -1,5 +1,8 @@
+/*
+ * Copyright (c) 2016. Nate Price's Blog
+ */
+
 import java.time.LocalDate;
-import java.util.Date;
 
 /**
  * Created by Nate Price on 9/6/2016.

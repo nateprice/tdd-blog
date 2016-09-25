@@ -1,15 +1,14 @@
-import org.junit.Test;
-import org.mockito.Mockito;
+/*
+ * Copyright (c) 2016. Nate Price's Blog
+ */
 
+import org.junit.Test;
 
 import java.time.LocalDate;
 import java.util.Date;
-import java.util.Iterator;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.verify;
-import static org.mockito.Mockito.when;
 
 /**
  * Created by Admin on 9/6/2016.
